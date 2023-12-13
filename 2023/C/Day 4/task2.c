@@ -2,6 +2,7 @@
 #define MAX_WINNING_NUMBERS 10
 #define MAX_NUMBERS_YOU_HAVE 25
 #define NUMBER_OF_GAMES 193
+
 #include <stdio.h>
 #include <math.h>
 
