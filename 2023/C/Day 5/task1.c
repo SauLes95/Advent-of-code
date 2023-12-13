@@ -28,7 +28,6 @@ unsigned long long convertFertilizerToWater(unsigned long long, FileStruct*, con
 unsigned long long convertWaterToLight(unsigned long long, FileStruct*, const int);
 unsigned long long convertLightToTemperature(unsigned long long, FileStruct*, const int);
 unsigned long long convertTemperatureToHumidity(unsigned long long, FileStruct*, const int);
-
 void bubbleSort(unsigned long long*, int);
 void bubbleSortFileStruct(FileStruct*, int);
 void dealocateOneDArray(unsigned long long*);
